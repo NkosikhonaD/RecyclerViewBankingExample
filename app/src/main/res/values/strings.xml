@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="name">Name</string>
+    <string name="login">LogIn</string>
+    <string name="username">User name</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="prompusername">Enter user name</string>
+    <string name="promptpassowrd">Enter password</string>
+    <string name="welcome">Welcome to Banking App</string>
+    <string name="search">Search</string>
+    <string name="service_name">Banking</string>
+    <string name="todo">TODO</string>
+</resources>
